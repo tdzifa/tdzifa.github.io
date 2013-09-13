@@ -1,0 +1,89 @@
+#portrait
+	{
+		margin-top:100px;
+		margin-left:120px;
+	}
+
+
+	#portraitsmall
+	{
+		margin-top:120px;
+		text-align: center;
+	}
+
+
+#name
+	{
+		background-color: #87CEEB;
+		border: 5px grey;
+		text-align: center;
+		width:250px;
+		height:250px;
+		border-radius: 10px;
+		border-style: inset;
+		margin-right: 20px;	
+		font:italic bold 60px Jokerman LET;
+
+	}
+
+#heading
+	{
+		background-image:url('image.jpg');
+		
+	}
+
+
+#smallname
+	{
+		font:italic bold 30px Jokerman LET;
+		color:white;
+		text-align:center;
+	}
+
+
+
+.intlinks
+	{
+		height:30px;
+		text-align:center;
+		font:bold;
+		color:white;
+		font-size: 20px;
+		background-color: #87CEEB;
+	}
+
+.content
+	{
+		background-color: #1E90FF;
+		height:80%;
+		color:#FFFFFF;
+	}
+
+.extlinks
+	{
+		height:80%;
+		background-color: #87CEEB;
+	}
+
+.social
+	{
+		height:150px;
+		text-align: center;
+		margin-top: 20px;
+	}
+.table-responsive
+	{
+		overflow-x: hidden; 
+		border-color: #1E90FF;
+	}
+
+#full
+	{
+		height:100%;
+	}
+
+.links
+{
+	list-style-type: none;
+}
+
