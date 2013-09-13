@@ -61,8 +61,9 @@
 
 .extlinks
 	{
-		height:80%;
+		
 		background-color: #87CEEB;
+
 	}
 
 .social
@@ -86,4 +87,39 @@
 {
 	list-style-type: none;
 }
+
+h3
+{
+	text-align:center;
+}
+.contentIcons
+{
+	text-align: center;
+}
+#edu,#vol,#exp 
+{
+	margin-bottom: 25px;
+}
+
+
+
+
+
+@media (min-width: 992px) and (max-width: 1199px) {
+	.extlinks {
+		height:1320px;
+		
+	} 
+	
+}
+
+
+@media (min-width: 1200px) {
+	.extlinks {
+		height:1265px;
+		
+	} 
+	
+}
+
 
