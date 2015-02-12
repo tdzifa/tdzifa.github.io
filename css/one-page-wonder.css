@@ -5,9 +5,9 @@
  */
 
 body {
-    margin-top: 20px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    margin-top: 10px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
     font-family: "Comic Sans MS", cursive, sans-serif;
-    background-color: #cccfff;
+    background-color: #addfff;
   }
 
 .navbar{
@@ -44,6 +44,12 @@ body {
 
 .featurette {
     overflow: hidden;
+    color: black;
+}
+
+.featurette h2{
+    color:#000977;
+    text-align: center;
 }
 
 .featurette-image.pull-left {
